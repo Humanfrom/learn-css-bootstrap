@@ -24,8 +24,6 @@
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-  <link href='https://fonts.googleapis.com/css?family=Merriweather:400' rel='stylesheet' type='text/css'>
-
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
@@ -74,14 +72,11 @@
           <!-- Slide 1 -->
           <div class="carousel-item active" style="background-image: url('assets/img/slide/slide-1.jpg');">
             <div class="carousel-container">
-			<center>
-              <div class="carousel-content container"><center>
+              <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown">Авторская швейная мастерская <span>Ассорти</span></h2>
-				
-               <h3 class="animate__animated animate__fadeInUp" style="color:white;font-family: 'Merriweather';">От эскиза до воплощения...</h3>
+                <h3 class="animate__animated animate__fadeInUp" style="color:white"><i>От Эскиза до воплощения...</i></h3>
                 <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Подробнее</a>
-              </center></div>
-			  </center>
+              </div>
             </div>
           </div>
 
@@ -119,26 +114,24 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon red"><i class="bx bx-palette"></i></div>
               <h4 class="title"><a href="">Кто мы</a></h4>
-              <p class="description">Мы – швейное предприятие ООО «Ассорти», основанное около 20 лет назад . У нас вы можете заказать рюкзаки , спортивные , дорожные и повседневные сумки на любой вкус, из различных материалов и цветов , с возможностью нанесения ваших принтов и вышивки. Так как мы придерживаемся индивидуального подхода к каждому клиенту , то разработку , отшив образца и нанесение мы берем на себя. Вместе с Вами мы создаём уникальные, индивидуальные вещи.</p>
+              <p class="description">Мы – швейное предприятие ООО «Ассорти», основанное более 20 лет назад . У нас вы можете заказать рюкзаки , спортивные , дорожные и повседневные сумки на любой вкус, из различных материалов и цветов , с возможностью нанесения ваших принтов и вышивки. Так как мы придерживаемся индивидуального подхода к каждому клиенту , то разработку , отшив образца и нанесение мы берем на себя.</p>
             </div>
 
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon orange"><i class="bx bx-closet"></i></div>
               <h4 class="title"><a href="">Широкий ассортемент</a></h4>
-              <p class="description">Помимо сумок мы занимаемся пошивом различных видов одежды, таких как: дождевики, фартуки, банданы, ветровки, жилеты, бомберы, накидки, шарфы, пледы и многое другое. Всегда рады работать на благо наших клиентов. Ждем ваших заказов.</p>
+              <p class="description">Помимо сумок мы занимаемся пошивом различных видов одежды, таких как: футболки, жилеты, бомберы, дождевики и многое другое. Всегда рады работать на благо наших клиентов. Ждем ваших заказов.</p>
             </div>
 			
-			<div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+			<div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon blue"><i class="bx bxs-truck"></i></div>
               <h4 class="title"><a href="">Удобно и легко</a></h4>
               <p class="description">Отправка готовых заказов осуществляется во все регионы России через транспортные компании: Деловые линии, ПЭК, СДЭК. Стоимость доставки рассчитывается транспортными компаниями на момент отправки и зависит от региона, в который осуществляется доставка, а также его объема.</p>
             </div>
 			
-			<div class="important-info" data-aos="fade-up" data-aos-delay="400"> 
 			<center>
 				<p><h3><i>Доставка заказа до транспортной компании - <b>бесплатно.</b></i></h3></p>
 			</center>
-			</div>
 			
           </div>
         </div>
@@ -152,7 +145,7 @@
 
         <div class="text-center" data-aos="zoom-in">
           <h3>Наши партнёры</h3>
-          <p>Наша компания сотрудничает со следующими организациями: Сбербанк, Окно в Европу, Полиграфия плюс, Группа компаний Агроэко, Эфко, Сажинский кондитерский комбинат, АВС Электро, КБ «Элакс», ВООООБФ «Российский детский Фонд», Аптека Алоэ, Бразис-Обувь, Фреш авто, Металлопрофиль, Мирал, ООО «Промтекстиль», Почта России, Администрация городского округа город Воронеж, ВТК, Хмельная миля, Хмельник, Центр Галереи Чижова, Московские ярмарки, Grizzly, Грядка, KRAYS GROUP и многие другие.</p>
+          <p>Наша компания сотрудничает со следующими организациями: Сбербанк, Окно в Европу, Полиграфия плюс, Группа компаний Агроэко, Эфко, Сажинский кондитерский комбинат, АВС Электро, КБ «Элакс», ВООООБФ «Российский детский Фонд», Аптека Алоэ, Фреш авто, Металлопрофиль, Мирал, ООО «Промтекстиль», Почта России, Администрация городского округа город Воронеж, ВТК, Хмельная миля, Хмельник, Центр Галереи Чижова, Московские ярмарки, Grizzly, ООО «Бразис-Обувь, Грядка, KRAYS GROUP и многие другие.</p>
         </div>
 		
 		<div class="container">
@@ -235,13 +228,13 @@
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-cloth">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bag">
             <div class="portfolio-wrap">
-			 <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Фартук">
+			 <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Сумка женская">
               <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Фартук</h4>
-                <p>Стильная фартук из прочной ткани</p>
+                <h4>Сумка</h4>
+                <p>Стильная современная сумка</p>
                 <div class="portfolio-links">
                  <i class="bx bx-search"></i>
                 </div>
@@ -250,13 +243,13 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-cloth">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-other">
             <div class="portfolio-wrap">
-			<a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Дождевик с рисунком">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+			<a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Маска для лица">
+              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Дождевик</h4>
-                <p>Дождевик с рисунком</p>
+                <h4>Маска для лица</h4>
+                <p>Маска тканевая с принтом на выбор</p>
                 <div class="portfolio-links">
                   <i class="bx bx-search"></i>
                 </div>
@@ -265,13 +258,28 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-bag">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-cloth">
             <div class="portfolio-wrap">
-			 <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Женская сумка">
+			<a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Худи">
+              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Худи</h4>
+                <p>Яркое худи из лёгкой ткани</p>
+                <div class="portfolio-links">
+                  <i class="bx bx-search"></i>
+                </div>
+              </div>
+			  </a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-cloth">
+            <div class="portfolio-wrap">
+			 <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Худи мужская">
               <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Сумка</h4>
-                <p>Универсальная сумка для покупок</p>
+                <h4>Худи мужская</h4>
+                <p>Худи из плотной ткани</p>
                 <div class="portfolio-links">
                  <i class="bx bx-search"></i>
                 </div>
@@ -297,11 +305,11 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-cloth">
             <div class="portfolio-wrap">
-			<a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Дождевик">
+			<a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Рубашка">
               <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Дождевик</h4>
-                <p>Дождевик из качественной ткани</p>
+                <h4>Рубашка</h4>
+                <p>Мужская рубашка с коротким рукавом</p>
                 <div class="portfolio-links">
                   <i class="bx bx-search"></i>
                 </div>
@@ -312,11 +320,11 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-bag">
             <div class="portfolio-wrap">
-			<a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Сумка для одежды">
+			<a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Сумка для покупок">
               <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Сумка</h4>
-                <p>Сумка для одежды и обуви</p>
+                <h4>Сумка для покупок</h4>
+                <p>Яркая и качественная сумка для покупок</p>
                 <div class="portfolio-links">
                   <i class="bx bx-search"></i>
                 </div>
@@ -325,13 +333,13 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-bag">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-cloth">
             <div class="portfolio-wrap">
-			 <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Многофункциональный портфель">
+			 <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Футболка">
               <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Портфель</h4>
-                <p>Многофункциональный удобный портфель</p>
+                <h4>Футболка</h4>
+                <p>Фудболка с любым принтом на выбор</p>
                 <div class="portfolio-links">
                  <i class="bx bx-search"></i>
                 </div>
@@ -342,116 +350,11 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-other">
             <div class="portfolio-wrap">
-			<a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Портфель-папка">
+			<a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Подушка">
               <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Портфель-папка</h4>
-                <p>Портфель-папка компактный</p>
-                <div class="portfolio-links">
-                  <i class="bx bx-search"></i>
-                </div>
-              </div>
-			  </a>
-            </div>
-          </div>
-		  
-		  <div class="col-lg-4 col-md-6 portfolio-item filter-bag">
-            <div class="portfolio-wrap">
-			<a href="assets/img/portfolio/portfolio-10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Сумка универсальная">
-              <img src="assets/img/portfolio/portfolio-10.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Сумка универсальная</h4>
-                <p>Универсальная сумка для различных задач</p>
-                <div class="portfolio-links">
-                  <i class="bx bx-search"></i>
-                </div>
-              </div>
-			  </a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-other">
-            <div class="portfolio-wrap">
-			<a href="assets/img/portfolio/portfolio-11.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Держатель поясной">
-              <img src="assets/img/portfolio/portfolio-11.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Держатель поясной</h4>
-                <p>Удобное приспособления для различных задач</p>
-                <div class="portfolio-links">
-                  <i class="bx bx-search"></i>
-                </div>
-              </div>
-			  </a>
-            </div>
-          </div>
-		  
-		  <div class="col-lg-4 col-md-6 portfolio-item filter-other">
-            <div class="portfolio-wrap">
-			<a href="assets/img/portfolio/portfolio-12.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Сумка универсальная">
-              <img src="assets/img/portfolio/portfolio-12.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Сумка универсальная</h4>
-                <p>Универсальная сумка для различных задач</p>
-                <div class="portfolio-links">
-                  <i class="bx bx-search"></i>
-                </div>
-              </div>
-			  </a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-other">
-            <div class="portfolio-wrap">
-			<a href="assets/img/portfolio/portfolio-13.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Маска для лица">
-              <img src="assets/img/portfolio/portfolio-13.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Дождевик</h4>
-                <p>Дождевик из качественной ткани</p>
-                <div class="portfolio-links">
-                  <i class="bx bx-search"></i>
-                </div>
-              </div>
-			  </a>
-            </div>
-          </div>
-		  
-		  <div class="col-lg-4 col-md-6 portfolio-item filter-other">
-            <div class="portfolio-wrap">
-			<a href="assets/img/portfolio/portfolio-14.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Папка">
-              <img src="assets/img/portfolio/portfolio-14.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Папка</h4>
-                <p>Папка тканевая</p>
-                <div class="portfolio-links">
-                  <i class="bx bx-search"></i>
-                </div>
-              </div>
-			  </a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-other">
-            <div class="portfolio-wrap">
-			<a href="assets/img/portfolio/portfolio-15.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Фартук">
-              <img src="assets/img/portfolio/portfolio-15.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Фартук</h4>
-                <p>Стильная чёрный фартук из качественной ткани</p>
-                <div class="portfolio-links">
-                  <i class="bx bx-search"></i>
-                </div>
-              </div>
-			  </a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-other">
-            <div class="portfolio-wrap">
-			<a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Маска для лица">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Маска для лица</h4>
-                <p>Маска тканевая с принтом на выбор</p>
+                <h4>Подушка</h4>
+                <p>Мягкая подушка с наполненеим и дизайном на выбор</p>
                 <div class="portfolio-links">
                   <i class="bx bx-search"></i>
                 </div>
